@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="BrokenLinksSuite" verbose="1" >
+    <test name="BrokenLinksTest" >
+        <classes>
+            <class name="InterviewExpediteCommerce.BrokenLinksTest" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,48 @@
+Broken Links Report - 20250306_194327
+----------------------------------------
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=400 - Status Code: 400
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=401 - Status Code: 401
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=402 - Status Code: 402
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=403 - Status Code: 403
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=404 - Status Code: 404
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=405 - Status Code: 405
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=406 - Status Code: 406
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=407 - Status Code: 407
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=408 - Status Code: 408
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=409 - Status Code: 409
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=410 - Status Code: 410
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=411 - Status Code: 411
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=412 - Status Code: 412
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=413 - Status Code: 413
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=414 - Status Code: 414
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=415 - Status Code: 415
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=416 - Status Code: 416
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=417 - Status Code: 417
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=420 - Status Code: 420
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=422 - Status Code: 422
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=423 - Status Code: 423
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=424 - Status Code: 424
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=429 - Status Code: 429
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=431 - Status Code: 431
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=450 - Status Code: 450
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=500 - Status Code: 500
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=501 - Status Code: 501
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=502 - Status Code: 502
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=503 - Status Code: 503
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=504 - Status Code: 504
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=505 - Status Code: 505
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=506 - Status Code: 506
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=507 - Status Code: 507
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=509 - Status Code: 509
+Broken Link: http://www.deadlinkcity.com/error-page.asp?e=510 - Status Code: 510
+Broken Link: http://www.deadlinkcity.com/page-not-found.asp - Status Code: 404
+Broken Link: http://www.domaindoesnot.exist/ - Status Code: -1
+Broken Link: http://www.deadlinkcity.com/default.asp?r=4 - Status Code: 404
+Broken Link: http://www.deadlinkcity.com/default.asp?r=5 - Status Code: 404
+Broken Link: http://www.deadlinkcity.com/default.asp?r=6 - Status Code: 404
+Broken Link: http://www.deadlinkcity.com/default.asp?r=7 - Status Code: 404
+Broken Link: http://www.deadlinkcity.com/disallowed/disallowed.html - Status Code: 404
+Broken Link: http://www.deadlinkcity.com/disallowed/nonexistent.html - Status Code: 404
+Broken Link: mailto:info@deadlinkchecker.com?subject=DeadLinkCity.com%20-%20feedback - Status Code: -1
+----------------------------------------
+Report End
